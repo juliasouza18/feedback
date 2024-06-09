@@ -8,7 +8,7 @@ import { GlobalStyle } from "./styles/global.js"
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home/>
+    element: <Home />
   }
 ])
 

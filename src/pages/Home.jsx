@@ -1,6 +1,6 @@
 import { ButtonContainer, CardContainer, IconContainer, ResultContainer  } from "./Home.styles";
-import iconStarImg from "../assets/icon-star-svg"
-import thankYouImg from "../assets/illustration-thank-you-svg"
+import iconStarImg from "../assets/icon-star.svg"
+import thankYouImg from "../assets/illustration-thank-you.svg"
 import { useState } from "react";
 
 export  function Home() {
